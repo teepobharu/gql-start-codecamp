@@ -10,12 +10,13 @@ learning using GraphQL with react using NosSQL schema
   4. NodeJS Express
 
 #### There are two folder:
-  __1. server:__ listen at port 4000 (graphql route is /graphql)
-  __2. client:__ react folder (using create-react-app)
+  __1. server:__ (graphql route is /graphql)<br>
+  __2. client:__ react related folder (using create-react-app)
   
 ------------
 #### Running server
 ##### `npm start`
-
+##### <a href="http://localhost:4000">`http://localhost:4000`</a> : listen at port 4000 
 #### Running react dev-server
 ##### `cd client && npm start`
+##### <a href="http://localhost:3000">`http://localhost:3000`</a>
